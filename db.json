@@ -14,7 +14,7 @@
             "createdAt": "1647289218"
         },
         {
-            "id": 1,
+            "id": 2,
             "creator": {
                 "name": "Augusto Antonio",
                 "username": "agostinho"
@@ -26,7 +26,7 @@
             "createdAt": "1647289218"
         },
         {
-            "id": 1,
+            "id": 3,
             "creator": {
                 "name": "Francisco Bento",
                 "username": "chico_bento"
@@ -38,8 +38,9 @@
             "createdAt": "1647289218"
         },
         {
-            "id": 1,
+            "id": 4,
             "creator": {
+                "id": "3c9eb1d3-5b99-4bd1-9129-e0c208149cff",
                 "name": "Thase Mertens",
                 "username": "southata"
             },
@@ -63,7 +64,7 @@
     }],
 
     "tweets": [{
-        "username": "southata",
+        "id": "southata",
         "tweets":[
             {
                 "id": 1,
