@@ -68,7 +68,7 @@
         "tweets":[
             {
                 "id": 1,
-                "body": ": Lorem ipsum leo tempor a sollicitudin egestas odio maecenas condimentum, ultricies quis massa potenti urna ullamcorper torquent imperd????",
+                "body": "Lorem ipsum leo tempor a sollicitudin egestas odio maecenas condimentum, ultricies quis massa potenti urna ullamcorper torquent imperd????",
                 "likes": 27,
                 "retweets": 10,
                 "comments": 3,
