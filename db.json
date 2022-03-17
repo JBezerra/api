@@ -2,21 +2,25 @@
     "feed":
     [
         {
+            "type": "default",
             "id": 1,
             "creator": {
                 "name": "Luis Freitas",
+                "avatarUrl": "https://i.pravatar.cc/150?u=luis_funfa_nao",
                 "username": "luis_fr3itas"
             },
-            "content": "Aqui vai uma dissertacao de lorem: Lorem ipsum leo tempor a sollicitudin egestas odio maecenas condimentum, ultricies quis massa potenti urna ullamcorper torquent imperdiet cubilia, taciti eros ut hac ad eleifend lorem neque.",
+            "content": "Aqui vai uma dissertacao de lorem assa potenti urna ullamcorper torquent imperdiet cubilia, taciti eros ut hac ad eleifend lorem neque.",
             "likes": 27,
             "retweets": 10,
             "comments": 3,
             "createdAt": "1647289218"
         },
         {
+            "type": "default",
             "id": 2,
             "creator": {
                 "name": "Augusto Antonio",
+                "avatarUrl": "https://i.pravatar.cc/150?u=tentando_antonio_dnv_a",
                 "username": "agostinho"
             },
             "content": "Ja pensou? Por essa nao esperava.",
@@ -26,25 +30,82 @@
             "createdAt": "1647289218"
         },
         {
+            "type": "retweet",
             "id": 3,
+            "retweetedFrom": "Thase Mertens",
             "creator": {
                 "name": "Francisco Bento",
+                "avatarUrl": "https://i.pravatar.cc/150?u=chico_benta",
                 "username": "chico_bento"
             },
-            "content": "Aqui vai uma dissertacao de lorem: Lorem ipsum leo tempor a sollicitudin egestas odio maecenas condimentum, ultricies quis massa potenti urna ullamcorper torquent imperdiet cubilia, taciti eros ut hac ad eleifend lorem neque.",
+            "content": "Aqui vai uma dissertacao de lorem Lorem ipsum leo tempor a sollicitudin egestas odio maecenas condimentum, ultricies quis massa potenti urna ullamcorper torquent imperdiet cubilia, taciti eros ut hac ad eleifend lorem neque.",
             "likes": 52,
             "retweets": 87,
             "comments": 33,
             "createdAt": "1647289218"
         },
         {
+            "type": "default",
+            "id": 3,
+            "creator": {
+                "name": "Francisco Bento",
+                "avatarUrl": "https://i.pravatar.cc/150?u=chico_benta",
+                "username": "chico_bento"
+            },
+            "content": "Aqui vai uma dissertacao de lorem Lorem ipsum leo tempor a sollicitudin egestas odio maecenas condimentum, ultricies quis massa potenti urna ullamcorper torquent imperdiet cubilia, taciti eros ut hac ad eleifend lorem neque.",
+            "likes": 52,
+            "retweets": 87,
+            "comments": 33,
+            "createdAt": "1647289218"
+        },
+        {
+            "type": "default",
             "id": 4,
             "creator": {
                 "id": "3c9eb1d3-5b99-4bd1-9129-e0c208149cff",
+                "avatarUrl": "https://i.pravatar.cc/150?u=athata",
                 "name": "Thase Mertens",
                 "username": "southata"
             },
-            "content": ": Lorem ipsum leo tempor a sollicitudin egestas odio maecenas condimentum, ultricies quis massa potenti urna ullamcorper torquent imperd????",
+            "content": "Lorem ipsum leo tempor a sollicitudin egestas odio maecenas condimentum, ultricies quis massa potenti urna ullamcorper torquent imperd????",
+            "likes": 27,
+            "retweets": 10,
+            "comments": 3,
+            "createdAt": "1647289218"
+        },
+        {
+            "type": "retweet",
+            "id": 4,
+            "retweetedFrom": "Jose Bezerra",
+            "creator": {
+                "id": "3c9eb1d3-5b99-4bd1-9129-e0c208149cff",
+                "avatarUrl": "https://i.pravatar.cc/150?u=athata",
+                "name": "Thase Mertens",
+                "username": "southata"
+            },
+            "content": "Aqui vai mais um pouco de texto placeholder, so que agora em portugues :)",
+            "likes": 27,
+            "retweets": 10,
+            "comments": 3,
+            "createdAt": "1647289218"
+        },
+        {
+            "type": "quoteTweet",
+            "id": 4,
+            "creator": {
+                "avatarUrl": "https://github.com/JBezerra.png",
+                "name": "Jose Bezerra",
+                "username": "jsoebezerra"
+            },
+            "content": "Achei bem legal o que esse cara falou nesse tweet aqui:",
+            "quoteTweet":{
+                "avatarUrl": "https://i.pravatar.cc/150?u=athata",
+                "autor": "Thase Mertens",
+                "username": "prazersoutahta",
+                "createdAt": "1647289218",
+                "content": "This is a tweet to test if the quote tweet is running ok!"
+
+            },
             "likes": 27,
             "retweets": 10,
             "comments": 3,
@@ -54,7 +115,7 @@
 
     "profile": [{
         "id": "3c9eb1d3-5b99-4bd1-9129-e0c208149cff",
-        "avatar_url": "https://scontent.ffln1-1.fna.fbcdn.net/v/t39.30808-6/273505176_106674201942357_8463087444495687345_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=SeY4crGgJD4AX9iblok&_nc_ht=scontent.ffln1-1.fna&oh=00_AT_eR1XafVfYNWaUq-h0ERsVpKyLXRgSpSNSqv1q1JSiuw&oe=62356590",
+        "avatarUrl": "https://i.pravatar.cc/150?u=athata",
         "name": "Thase Mertens",
         "username": "southata",
         "tweets": 69,
