@@ -5,8 +5,8 @@
             "type": "default",
             "id": 1,
             "creator": {
-                "name": "Luis Freitas",
                 "avatarUrl": "https://i.pravatar.cc/150?u=luis_funfa_nao",
+                "author": "Luis Freitas",
                 "username": "luis_fr3itas"
             },
             "content": "Aqui vai uma dissertacao de lorem assa potenti urna ullamcorper torquent imperdiet cubilia, taciti eros ut hac ad eleifend lorem neque.",
@@ -19,8 +19,8 @@
             "type": "default",
             "id": 2,
             "creator": {
-                "name": "Augusto Antonio",
                 "avatarUrl": "https://i.pravatar.cc/150?u=tentando_antonio_dnv_a",
+                "author": "Augusto Antonio",
                 "username": "agostinho"
             },
             "content": "Ja pensou? Por essa nao esperava.",
@@ -34,8 +34,8 @@
             "id": 3,
             "retweetedFrom": "Thase Mertens",
             "creator": {
-                "name": "Francisco Bento",
                 "avatarUrl": "https://i.pravatar.cc/150?u=chico_benta",
+                "author": "Francisco Bento",
                 "username": "chico_bento"
             },
             "content": "Aqui vai uma dissertacao de lorem Lorem ipsum leo tempor a sollicitudin egestas odio maecenas condimentum, ultricies quis massa potenti urna ullamcorper torquent imperdiet cubilia, taciti eros ut hac ad eleifend lorem neque.",
@@ -48,8 +48,8 @@
             "type": "default",
             "id": 3,
             "creator": {
-                "name": "Francisco Bento",
                 "avatarUrl": "https://i.pravatar.cc/150?u=chico_benta",
+                "author": "Francisco Bento",
                 "username": "chico_bento"
             },
             "content": "Aqui vai uma dissertacao de lorem Lorem ipsum leo tempor a sollicitudin egestas odio maecenas condimentum, ultricies quis massa potenti urna ullamcorper torquent imperdiet cubilia, taciti eros ut hac ad eleifend lorem neque.",
@@ -64,7 +64,7 @@
             "creator": {
                 "id": "3c9eb1d3-5b99-4bd1-9129-e0c208149cff",
                 "avatarUrl": "https://i.pravatar.cc/150?u=athata",
-                "name": "Thase Mertens",
+                "author": "Thase Mertens",
                 "username": "southata"
             },
             "content": "Lorem ipsum leo tempor a sollicitudin egestas odio maecenas condimentum, ultricies quis massa potenti urna ullamcorper torquent imperd????",
@@ -80,7 +80,7 @@
             "creator": {
                 "id": "3c9eb1d3-5b99-4bd1-9129-e0c208149cff",
                 "avatarUrl": "https://i.pravatar.cc/150?u=athata",
-                "name": "Thase Mertens",
+                "author": "Thase Mertens",
                 "username": "southata"
             },
             "content": "Aqui vai mais um pouco de texto placeholder, so que agora em portugues :)",
@@ -100,7 +100,7 @@
             "content": "Achei bem legal o que esse cara falou nesse tweet aqui:",
             "quoteTweet":{
                 "avatarUrl": "https://i.pravatar.cc/150?u=athata",
-                "autor": "Thase Mertens",
+                "author": "Thase Mertens",
                 "username": "prazersoutahta",
                 "createdAt": "1647289218",
                 "content": "This is a tweet to test if the quote tweet is running ok!"
