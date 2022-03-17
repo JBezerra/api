@@ -7,7 +7,7 @@
                 "name": "Luis Freitas",
                 "username": "luis_fr3itas"
             },
-            "body": "Aqui vai uma dissertacao de lorem: Lorem ipsum leo tempor a sollicitudin egestas odio maecenas condimentum, ultricies quis massa potenti urna ullamcorper torquent imperdiet cubilia, taciti eros ut hac ad eleifend lorem neque.",
+            "content": "Aqui vai uma dissertacao de lorem: Lorem ipsum leo tempor a sollicitudin egestas odio maecenas condimentum, ultricies quis massa potenti urna ullamcorper torquent imperdiet cubilia, taciti eros ut hac ad eleifend lorem neque.",
             "likes": 27,
             "retweets": 10,
             "comments": 3,
@@ -19,7 +19,7 @@
                 "name": "Augusto Antonio",
                 "username": "agostinho"
             },
-            "body": "Ja pensou? Por essa nao esperava.",
+            "content": "Ja pensou? Por essa nao esperava.",
             "likes": 75,
             "retweets": 27,
             "comments": 52,
@@ -31,7 +31,7 @@
                 "name": "Francisco Bento",
                 "username": "chico_bento"
             },
-            "body": "Aqui vai uma dissertacao de lorem: Lorem ipsum leo tempor a sollicitudin egestas odio maecenas condimentum, ultricies quis massa potenti urna ullamcorper torquent imperdiet cubilia, taciti eros ut hac ad eleifend lorem neque.",
+            "content": "Aqui vai uma dissertacao de lorem: Lorem ipsum leo tempor a sollicitudin egestas odio maecenas condimentum, ultricies quis massa potenti urna ullamcorper torquent imperdiet cubilia, taciti eros ut hac ad eleifend lorem neque.",
             "likes": 52,
             "retweets": 87,
             "comments": 33,
@@ -44,7 +44,7 @@
                 "name": "Thase Mertens",
                 "username": "southata"
             },
-            "body": ": Lorem ipsum leo tempor a sollicitudin egestas odio maecenas condimentum, ultricies quis massa potenti urna ullamcorper torquent imperd????",
+            "content": ": Lorem ipsum leo tempor a sollicitudin egestas odio maecenas condimentum, ultricies quis massa potenti urna ullamcorper torquent imperd????",
             "likes": 27,
             "retweets": 10,
             "comments": 3,
@@ -68,7 +68,7 @@
         "tweets":[
             {
                 "id": 1,
-                "body": "Lorem ipsum leo tempor a sollicitudin egestas odio maecenas condimentum, ultricies quis massa potenti urna ullamcorper torquent imperd????",
+                "content": "Lorem ipsum leo tempor a sollicitudin egestas odio maecenas condimentum, ultricies quis massa potenti urna ullamcorper torquent imperd????",
                 "likes": 27,
                 "retweets": 10,
                 "comments": 3,
